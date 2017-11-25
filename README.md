@@ -5,5 +5,5 @@ We applied U-Net architecture to train BRATS 2013 dataset using 3 scanning image
 
 We used many types of U-Net architecture from many resources as commented in "BRATs_unet_2.py"
 
-We also applied Data augmentation using [tensorlayer](https://github.com/zsdonghao/tensorlayer) library and from [zsdonghao github](https://github.com/zsdonghao/u-net-brain-tumor) based on [paper](https://arxiv.org/pdf/1705.03820.pdf)
+We also applied Data augmentation using [tensorlayer](https://github.com/zsdonghao/tensorlayer) library and from [zsdonghao github](https://github.com/zsdonghao/u-net-brain-tumor) based on [this paper](https://arxiv.org/pdf/1705.03820.pdf)
 
